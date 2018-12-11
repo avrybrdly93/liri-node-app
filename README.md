@@ -13,4 +13,4 @@ With just a few simple commands, an immense amount of information will be at you
    
 Attached is a link to a video of the developer of this application demonstrating how to successfully use it.
 
-https://drive.google.com/file/d/13aIFQHjwW7fxpybK0OEjkTYibdmo181v/view
+https://drive.google.com/file/d/13aIFQHjwW7fxpybK0OEjkTYibdmo181v/view?usp=sharing
